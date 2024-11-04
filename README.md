@@ -31,4 +31,5 @@
    npm run dev
 ```
 Архитектура БД
-![BD](https://i.imgur.com/lIelXS0.png)
+![BD](https://i.imgur.com/0HCqXZ8.png)
+
